@@ -1,6 +1,6 @@
 # NeoPixel Meter
 
-Vinculado directamente a los "NeoPixel", el NeoPixel Meter tiene la capacidad de medir los frames por segundo (FPS), asi como la energia (W) que esta siendo utilizada por los NeoPixel.
+Vinculado directamente a los "NeoPixel", el NeoPixel Meter tiene la capacidad de medir los FPS, asi como la energia (W) que esta siendo utilizada por los NeoPixel.
 
 ![image](https://user-images.githubusercontent.com/81411706/191140142-4644baef-3975-45cb-ab8a-e275732f27ea.png)
 
